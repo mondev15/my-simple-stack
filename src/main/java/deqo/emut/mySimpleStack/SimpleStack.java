@@ -1,3 +1,7 @@
+package deqo.emut.mySimpleStack;
+
+import java.util.EmptyStackException;
+
 public interface SimpleStack {
     /**
      * Tests if this stack is empty

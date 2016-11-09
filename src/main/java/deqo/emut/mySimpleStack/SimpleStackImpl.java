@@ -4,6 +4,11 @@ import java.lang.Object;
 import java.util.EmptyStackException;
 import java.util.Stack;
 
+/**
+ * created by mundial on 9/11/2016
+ * Un commentaire répondant à l'exigence 3 #
+ */
+
 public class SimpleStackImpl implements SimpleStack{
 
     private Stack<Object> wrappedStack = new Stack<Object>();

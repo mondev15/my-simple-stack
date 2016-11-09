@@ -14,6 +14,11 @@ public class Item{
     public Item (Object value){
         setValue(value);
     }
+
+    /**
+     *  un commentaire réponsant à l'exigence11
+     * @return
+     */
     public Object getValue(){
       return value;
     }
